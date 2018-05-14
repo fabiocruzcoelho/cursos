@@ -1,0 +1,11 @@
+algoritimo "VALORES"
+var
+    N1, N2, inteiro
+    M: Real
+inicio
+    Escreva ("Informa um numero: ")
+    Leia (N1)
+    Escreva ("Informe outro numero")
+    M <- N1 + N2
+    Escreva ("A media é ", M)
+fimalgoritimo
